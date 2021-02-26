@@ -4,8 +4,8 @@ A web tomato clock powered by React that can help you put your heart and soul in
 
 todo list:
 * [x] clock
-* [] todo list
-* [] music player
+* [ ] todo list
+* [ ] music player
 
 ## 
 In the project directory, you can run:</br>
