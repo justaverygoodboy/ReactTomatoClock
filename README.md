@@ -3,13 +3,13 @@ A web tomato clock powered by React that can help you put your heart and soul in
 25 min -- 5 min ==> work -- rest interval.
 
 todo list:
--[x] clock
--[] todo list
--[] music player
+* [x] clock
+* [] todo list
+* [] music player
 
 ## 
-In the project directory, you can run:
+In the project directory, you can run:</br>
 `yarn start`
 
-Builds the app for production to the build folder.
+Builds the app for production to the build folder:</br>
 `yarn build`
